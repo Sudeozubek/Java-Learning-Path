@@ -3,6 +3,6 @@ public class SimpleMethod {
         sayHello();
     }
     public static void sayHello() {
-        System.out.println("Hello, Java!");
+        System.out.println("Helloooo canim");
     }
 }
