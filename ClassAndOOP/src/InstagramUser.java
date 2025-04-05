@@ -19,4 +19,4 @@ public class InstagramUser {
     public void showProfile(){
         System.out.println("Username: "+username+", Followers: "+followers);
     }
-}
+} 
