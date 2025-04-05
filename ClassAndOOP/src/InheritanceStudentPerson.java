@@ -5,4 +5,4 @@ public class InheritanceStudentPerson {
         sude.showStudentInfo();
         halil.showStudentInfo();
     }
-}
+} 
