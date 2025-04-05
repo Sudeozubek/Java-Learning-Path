@@ -12,4 +12,4 @@ public class InheritedStudent extends BasePerson {
         System.out.println("Student ID: "+ studentId);
     }
 }
-
+ 
