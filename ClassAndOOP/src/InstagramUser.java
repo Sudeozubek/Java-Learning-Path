@@ -14,7 +14,7 @@ public class InstagramUser {
             followers --;
         }else{
             System.out.println("Already at 0 followers");
-        }
+        } 
     }
     public void showProfile(){
         System.out.println("Username: "+username+", Followers: "+followers);
